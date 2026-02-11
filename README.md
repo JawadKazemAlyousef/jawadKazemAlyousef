@@ -7,12 +7,17 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jawadkazemalyousef&label=Profile%20views&color=0e75b6&style=flat" alt="jawadkazemalyousef" /> </div>
 
 <h4 align="center">
-
-  - 🔭 I worked on [Folder Organizer](https://github.com/JawadKazemAlyousef/OrganizeFolder)
-
-  - 🌱 I’m currently learning **Angular, Full Web development**
-
-  - 📫 contact me via **jawadkazemAlyousef@gmail.com**
+  <ul>
+    <il>
+        🔭 I worked on [Folder Organizer](https://github.com/JawadKazemAlyousef/OrganizeFolder)
+    </il>
+    <il>
+       🌱 I’m currently learning **Angular, Full Web development**
+    </il>
+    <il>
+        📫 contact me via **jawadkazemAlyousef@gmail.com**
+    </il>
+  </ul>
 </h4>
 
 <h3 align="center">Connect with me</h3>
