@@ -4,13 +4,16 @@
 <h1 align=center> I am, Jawad Alyousef from KSA</h1>
 <h3 align="center">A passionate software developer, and I would like to move forward in web development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadkazemalyousef&label=Profile%20views&color=0e75b6&style=flat" alt="jawadkazemalyousef" /> </p>
+<h4 align="left"> <img src="https://komarev.com/ghpvc/?username=jawadkazemalyousef&label=Profile%20views&color=0e75b6&style=flat" alt="jawadkazemalyousef" /> </h4>
 
-- 🔭 I worked on [Folder Organizer](https://github.com/JawadKazemAlyousef/OrganizeFolder)
+<h5>
 
-- 🌱 I’m currently learning **Angular, Full Web development**
+  - 🔭 I worked on [Folder Organizer](https://github.com/JawadKazemAlyousef/OrganizeFolder)
 
-- 📫 contact me via **jawadkazemAlyousef@gmail.com**
+  - 🌱 I’m currently learning **Angular, Full Web development**
+
+  - 📫 contact me via **jawadkazemAlyousef@gmail.com**
+</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
