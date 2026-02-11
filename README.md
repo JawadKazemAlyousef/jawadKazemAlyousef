@@ -6,7 +6,7 @@
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jawadkazemalyousef&label=Profile%20views&color=0e75b6&style=flat" alt="jawadkazemalyousef" /> </div>
 
-<h4 align="center">
+<div align="center">
   <ul>
     <il>
         🔭 I worked on [Folder Organizer](https://github.com/JawadKazemAlyousef/OrganizeFolder)
@@ -18,7 +18,7 @@
         📫 contact me via **jawadkazemAlyousef@gmail.com**
     </il>
   </ul>
-</h4>
+</div>
 
 <h3 align="center">Connect with me</h3>
 <h3 align="center">
