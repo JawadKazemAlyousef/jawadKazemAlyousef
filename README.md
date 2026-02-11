@@ -23,4 +23,4 @@
 <hr />
 
 
-<div align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jawadkazemalyousef&" alt="jawadkazemalyousef" /></div>div>
+<footer align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jawadkazemalyousef&" alt="jawadkazemalyousef" /></footer>
