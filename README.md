@@ -22,7 +22,5 @@
 
 <hr />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadkazemalyousef&show_icons=true&locale=en&layout=compact" alt="jawadkazemalyousef" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jawadkazemalyousef&show_icons=true&locale=en" alt="jawadkazemalyousef" /></p>
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=jawadkazemalyousef&" alt="jawadkazemalyousef" /></p>
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=jawadkazemalyousef&" alt="jawadkazemalyousef" />
