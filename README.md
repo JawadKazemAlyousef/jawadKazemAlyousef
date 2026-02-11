@@ -4,7 +4,7 @@
 <h1 align=center> I am, Jawad Alyousef from KSA</h1>
 <h3 align="center">A passionate software developer, and I would like to move forward in web development</h3>
 
-<h4 align="left"> <img src="https://komarev.com/ghpvc/?username=jawadkazemalyousef&label=Profile%20views&color=0e75b6&style=flat" alt="jawadkazemalyousef" /> </h4>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=jawadkazemalyousef&label=Profile%20views&color=0e75b6&style=flat" alt="jawadkazemalyousef" /> </div>
 
 <h5>
 
