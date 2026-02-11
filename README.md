@@ -8,15 +8,12 @@
 
 <div align="center">
   <h4>
-      🔭 I worked on <a href="https://github.com/JawadKazemAlyousef/OrganizeFolder"><img src="https://github.com/JawadKazemAlyousef/Folder-Organizer/blob/master/FolderOrganizer/resources/Images/Program%20icon.png?raw=true" width="20" height="20"></a>
+      🔭 I worked on <strong>Folder Organizer </strong><a href="https://github.com/JawadKazemAlyousef/OrganizeFolder"><img src="https://github.com/JawadKazemAlyousef/Folder-Organizer/blob/master/FolderOrganizer/resources/Images/Program%20icon.png?raw=true" width="20" height="20"></a>
      <br />
      <br />
-       🌱 I’m currently learning **Angular, Full Web development**
+       🌱 I’m currently learning <strong>Angular, Full Web development</strong>
      <br />
      <br />
-        📫 contact me via **jawadkazemAlyousef@gmail.com** 
-    <br />
-    <br />
   </h4>
       
   
@@ -34,3 +31,4 @@
 
 
 <div align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jawadkazemalyousef&" alt="jawadkazemalyousef" /> </div>
+<h3 align="center">📫 contact me via <strong>jawadkazemAlyousef@gmail.com</strong></h3>    
